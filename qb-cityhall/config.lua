@@ -1,0 +1,16 @@
+Config = Config or {}
+
+Config.CompanyPrice = 25000
+
+Config.Cityhall = {
+    coords = vector3(-551.39, -201.45, 38.23)
+	, 00, 46, 27.8551
+}
+
+Config.DriverTest = {
+    coords = vector3(-549.86, -191.75, 38.22)
+}
+
+Config.DrivingSchool = {
+    coords = vector3(232.5, 368.7, 105.94)
+}

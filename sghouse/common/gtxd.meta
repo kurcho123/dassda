@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+    <Item>
+      <parent>app_txd_1</parent>
+      <child>app_txd</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>
